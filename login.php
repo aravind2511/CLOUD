@@ -7,7 +7,7 @@
  }
  else
  {
- $loginName = "Login Failed";
+ $loginName = "Login successfully";
  }
 ?>
 <!DOCTYPE html>
